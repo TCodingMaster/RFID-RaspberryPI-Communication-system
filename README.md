@@ -48,6 +48,6 @@ that will install all of libraries that you need for this project.
 
 ### 6. Creating python files and an templates folder:
 When you created the virtual envroviement the directory venv appeared in your desktop exm. ```/home/username/```
-when you have VENV still activated, and server Rpi decided run the command ```nano server.py``` on the server RPi via Putty and press enter.
-You will create a new file named server.py in nano editor, and then 
+when you have VENV still activated, and decided which one will be the server run the command on the server ```nano server.py``` on the server RPi via Putty and press enter.
+You will create a new file named server.py in nano editor, and then copy the ```RPi_server.py``` code   ```from RaspberryPi-communication-system``` Repository
 
