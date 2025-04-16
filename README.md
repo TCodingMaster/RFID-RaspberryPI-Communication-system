@@ -213,11 +213,25 @@ RFID_INPUT_PATH = '/dev/input/event0'  #change the right /dev/input/event.. path
 
 #other code..
 ```
-## 15. When changing theese parts of code you are allmost finished with the project and the last thing you need to do is to start the both clients.😊
-start them 
+## 15. When changing theese parts of code you are allmost finished with the project and the last thing you will need to do is to start the both clients.
+start them one by one by typing this command:
+```bash
+python3 client1.py
+```
+```bash
+python3 client2.py #or 3,4,5 etc. according how many clients to you have
+```
+# Thanks for visiting the page 🤍
+
+## the links for buying the items ↓↓↓
+ #### <a href="https://www.amazon.de/-/en/Neuftech-RFID-Reader-Contactless-EM4100/dp/B018OYOR3E/ref=sr_1_1?crid=3POXC2T5M0OVH&dib=eyJ2IjoiMSJ9.LGYouj3pKNgQSCnFOV7i94jdSSA4B2FrmNY-ORbNNWTNMlCVDHkky0CJVAveKUxk2V7MhM9Pq64IwL47OXtOKpjhnt1oq6d2XTpi7laUBGIqNHHQwKwacTnqvsgbUnR1_h9gCYhmO796QXIdwNj7Mi5bjAERb6WsQqlvavWlcNDzNFk3U6MSkrhhX0qmIZHbMfHnCId9HrSc_Nn3srOgrCho6n4sQxmn89EzsUZseuc.rbYKU8wbwMrl6bJesCflwhEYggzoGnt9BboIwXHKRiM&dib_tag=se&keywords=neuftech+RFID+Reader&qid=1744798884&sprefix=neuftech+rfid+reade%2Caps%2C560&sr=8-1">Neuftech USB RFID Reader</a>
+#### <a href="https://www.amazon.de/-/en/Raspberry-Model-Board-1GB-Plus/dp/B0BNJPL4MW/ref=sr_1_3?crid=23QRYLE69OPJ6&dib=eyJ2IjoiMSJ9.kT6YfutOjwKMh4swpKAvfVf60PRETROhPDFxvhPqpPCRkLH5rDYNMgoyFqxFn8H3inzrCJmlpK9VJiXoFM4Z7Z4jjLWoP_acQVxooDo_WEoiV-ViToK2QGfUXHMEJCxhQS5iiIswNtNuiDBP8Hmh3gW_u7zgK9LuE8LyX2uh8bn8OhlNtzHEIP9LCfoyvuS5MJReNesXxsYKZZm9R_c74vjh2VxsrVXX4VihR92TbE4.sIr9s0Z1Zhx6x6UUOhkuUSBp9dZCken_rI5JY6lDTUY&dib_tag=se&keywords=raspberry+pi+3b+%2B&qid=1744799017&sprefix=raspberry+pi+3b+%2B%2Caps%2C146&sr=8-3">RaspberryPi 3 b +</a>
+#### <a href="https://www.amazon.de/-/en/SC1112-Raspberry-Pi-5-8gb/dp/B0CK2FCG1K/ref=sr_1_3?crid=1W7IHU8CZE83E&dib=eyJ2IjoiMSJ9.ptP7J3FZcmbYoZvFxUp_Vsja9oTthOJvFk_ZWVEluAx_PsrLrlD8qyVgiL2fDZ7n_MGA5gtdJOHPSi-G1afxUjM2MMgwg1VJvMnW-mqGNo7rZtZWk_OrygiUFUXE4LlbqNriQek9DIFA3yn-URi-tT1MGPdrJC4TyisMd6O4-pMhTWQXdV4I5NYKYb7x5QTHwP7eJFTeE8N2okW9oBRBepjpYNgs6jwAEHCPX0QEPgw.pA1Xii_GAR5PdVjDE_BvZ9LFDmNyUO8aTamoXvoE4CA&dib_tag=se&keywords=raspberry%2Bpi&qid=1744799083&sprefix=raspberry%2Bpi%2Caps%2C137&sr=8-3&th=1">Raspberry Pi 5 8gb</a>
+#### <a href="https://www.amazon.de/-/en/Raspberry-Pi-Model-GB/dp/B07TGBLK33/ref=sr_1_5?crid=1S53RGOATDPVM&dib=eyJ2IjoiMSJ9.Ecc4WqoL9GzQPna5ZAtas3tOERLYHnomX6lsUs_zQ2vzAQzUunYZ67leL7srYPPL4V87_uM7-RULC4OAmezyS-7X38WWzk_BlGdDgutOqDeB3xExPRZ54A2CG-sZIiKgYEahdb57yn5zw92lRTa3MNdbKsYpCwiwKF3aCvC_J7Jakb2HkOSADQgUIm9m_qGCp4PG1jpn5YSEf3JYtiSW8wXQ9IvOMMw033Eso5T8ZrU.ZraHwDPpH_G4YVA65LBV0ggcWnjv227hhMPLlZvgs3U&dib_tag=se&keywords=raspberry+pi+4&qid=1744799237&sprefix=raspberry+pi+4%2Caps%2C121&sr=8-5>RaspberryPi 4 2gb</a>
 
 
 
+##### Designed by @TCodingMaster © 2025
 
 
 
