@@ -1,5 +1,5 @@
 #  RFID RaspberryPI Communication system
-"This project implements a lightweight server for the Raspberry Pi 3 B+ and a keyboard emulation (HID) RFID reader, enabling communication with clients. Built using Python Flask and the Endev library, it facilitates secure port communication between the server and one or more clients. The system integrates an SQLite database for user management and includes a web interface for data visualization. Designed for study purposes, it is easily upgradable for expanded functionality."
+"This project implements a lightweight server for the Raspberry Pi 3 B+ and a keyboard emulation (HID) RFID reader, enabling communication with clients. Built using Python Flask and the Endev library, it facilitates secure port communication between the server and one or more clients. The system integrates an SQLite database for user management and includes a web interface for data visualization. Designed for study purposes, it is easily upgradable for expanded functionality and designed in Slovenian Language."
 ##  Main Components
 ### You will need:
 - two or more RaspberryPi's 3 b + if you need. or any other model 'listed below' could work two,
@@ -231,8 +231,7 @@ python3 client2.py #or 3,4,5 etc. according how many clients to you have
 
 
 
-##### Designed by @TCodingMaster © 2025
-
+##### Designed by @TCodingMaster © 2025 SLO
 
 
 
