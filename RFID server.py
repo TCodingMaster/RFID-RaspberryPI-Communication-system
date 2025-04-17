@@ -72,27 +72,7 @@ def handle_rfid():
 
     return jsonify({'status': 'ok', 'message': message})
 
-@app.route('/')
-def home():
-    conn = sqlite3.connect(DB_PATH)
-    c = conn.cursor()
-
-    # Active sessions
-    c.execute("SELECT rfid, start_time FROM active_sessions")
-    active = c.fetchall()
-    active_info = []
-    for rfid, start_time in active:
-        c.execute("SELECT name FROM users WHERE rfid=?", (rfid,))
-        user = c.fetchone()
-        name = user[0] if user else "Neznan"
-        active_info.append({'rfid': rfid, 'name': name, 'start_time': start_time})
-
-    # Ended sessions
-    c.execute("SELECT rfid, name, start_time, end_time, duration FROM sessions ORDER BY id DESC LIMIT 20")
-    sessions = c.fetchall()
-
-    conn.close()
-    return render_template('index.html', active=active_info, sessions=sessions)
+# here you paste the code from the step 8
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=5000)
