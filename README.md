@@ -12,7 +12,7 @@
 - An HDMI Cable or two,
 - Recommended SSH protocol or tool Putty etc.. (i will use Putty).
 
-## Initalization
+
 ### 1. ISO Instalation:
 Get the ISO file <a href="https://www.raspberrypi.com/software/">Here</a> and plug the instalation media into your PC or laptop etc. When the Imager will download open it and select an RPi Model, RPI OS and your usb drive. Then  click ```Next```, ```edit settings```(edit settings on your preferences)", than ```yes```, and ```yes``` and then it will start the download for your ISO file. <a href="https://youtu.be/DRJAILbqjy0?si=Bjus8FsSx8V6RNjL">Full step guide how to install RPi OS</a><h5 style="font-weight: bold; font-color: #14a3e0;">!! Important ignore the Windows unable to format the drive error !!</h5>If you have windows as I did the format drive message will show up. Ignore it, beacause RaspberryPi OS is A Linux system and widows cant recognize it. if you have Linux the error message might not show up.
 When the error message shows/or not(depending on your OS),  unplug the drive. 
