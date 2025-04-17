@@ -108,7 +108,7 @@ When creating the file server.py and pasting the code in the file ```server.py``
 ## 8. Code setup ```server.py```
 ### Pasting the code to ```server.py``` might be easy but please change the code that the ```server.py``` will funciton correctly:
 - Please change the example IP of server  ```192.168.0.100``` to the existing IPv4 address of the selected ```server``` RaspberryPi
-- When the server RPi IP is choosed rightyou can integrate ```@app.route('/')``` in ```server.py``` path for ```index.html``` webpage.
+- When the server RPi IP is choosed right, you can integrate ```@app.route('/')``` in ```server.py``` path for ```index.html``` webpage.
  ### The code will look something like this:
 ```python
 # Other code 
