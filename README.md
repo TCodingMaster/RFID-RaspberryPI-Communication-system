@@ -148,8 +148,8 @@ Code will look something like this:
 # add_user.py
 import sqlite3
 
-rfid = input("Vnesi RFID kodo: ")
-name = input("Vnesi ime uporabnika: ")
+rfid = input("Enter the RFID code: ")
+name = input("Enter the user name: ")
 
 conn = sqlite3.connect('rfid_system.db')
 c = conn.cursor()
