@@ -102,7 +102,7 @@ source venv/bin/activate
 ```
 on the server RPi via Putty and press enter.
 You will create a new file named server.py in nano editor. Then paste ```RFID_server.py``` code from my repository.
-When creating the file server.py and pasting the code in the file ```server.py```, its time to assemble the ```index.html``` page for showing the results.
+When creating the file server.py and pasting the code in the file ```server.py```, its time to assemble the  ```app_route()``` for linking the path for the ```index.html``` page.
 
 
 ## 8. Code setup ```server.py```
