@@ -157,7 +157,7 @@ c.execute("INSERT OR REPLACE INTO users (rfid, name) VALUES (?, ?)", (rfid, name
 conn.commit()
 conn.close()
 
-print(f"Uporabnik {name} dodan.")
+print(f"User {name} added.")
 ```
 Write/save the file by pressing ```^ + O``` on linux or ```ctrl + O``` on windows, and then quit nano editor by pressing ```^ + X``` on linux or ```ctrl + X``` on windows.
 
