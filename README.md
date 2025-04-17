@@ -7,7 +7,7 @@
 - 2x  Micro USB Adapter for power for the RaspberryPI
 - A PC or an laptop with 2 or more USB gen 3.0 or gen 2.0 ports for the main power to RPi (If you dont have an alt. PC Laptop, use Phone USB A adapterand plug it into power) But at least laptop reccomended for SSH
 - one or more Neuftech, or any other Keyboard in interface USB Emutation(HID) RFID Reader Cable comes included. Link(below)
-  <img src="https://m.media-amazon.com/images/I/71N9zStJUbL._AC_SX679_.jpg"/>
+  <img src="https://m.media-amazon.com/images/I/71N9zStJUbL._AC_SX679_.jpg" style="border-radius: 10%;" />
 - An USB A/bluetooth keyboard and a bluetooth/USB A mouse.
 - An Installation Media(USB flash drive/s or an micro SD card/s, maybe you will need the micro SD card reader and adapter to connect Micro SD card into it. Link(below)
 - An External Monitor (if you Have an PC),
