@@ -1,16 +1,18 @@
 #  RFID RaspberryPI Communication system
+
 "This project implements a lightweight server for the Raspberry Pi 3 B+ and a keyboard emulation (HID) RFID reader, enabling communication with clients. Built using Python Flask and the Endev library, it facilitates secure port communication between the server and one or more clients. The system integrates an SQLite database for user management and includes a web interface for data visualization. Designed for study purposes, it is easily upgradable for expanded functionality and designed in Slovenian Language."
 ##  Main Components
 ### You will need:
 - two or more RaspberryPi's 3 b + if you need. or any other model 'listed below' could work two,
 - 2x  Micro USB Adapter for power for the RaspberryPI
 - A PC or an laptop with 2 or more USB gen 3.0 or gen 2.0 ports for the main power to RPi (If you dont have an alt. PC Laptop, use Phone USB A adapterand plug it into power) But at least laptop reccomended for SSH
-- one or more Neuftech, or any other Keyboard in interface USB Emutation(HID) RFID Reader Cable comes included. Link: ()
+- one or more Neuftech, or any other Keyboard in interface USB Emutation(HID) RFID Reader Cable comes included. Link(below)
+  <img src="https://m.media-amazon.com/images/I/71N9zStJUbL._AC_SX679_.jpg"/>
 - An USB A/bluetooth keyboard and a bluetooth/USB A mouse.
-- An Installation Media(USB flash drive/s or an micro SD card/s, maybe you will need the micro SD card reader and adapter to connect Micro SD card into it. Link: ()
+- An Installation Media(USB flash drive/s or an micro SD card/s, maybe you will need the micro SD card reader and adapter to connect Micro SD card into it. Link(below)
 - An External Monitor (if you Have an PC),
 - An HDMI Cable or two,
-- Recommended SSH protocol or tool Putty etc.. (i will use Putty).
+- Recommended SSH protocol or tool Putty etc.. (I will use Putty).
 
 
 ### 1. ISO Instalation:
