@@ -35,7 +35,7 @@ sudo raspi-config
 ``` 
 and then navigating to ```interface Options``` and enabling SSH protocol by selecting ```yes```.
 When you have all those steps enabled you can install Putty a free SSH client for windows <a href="https://www.putty.org/">Here</a>. 
-When you installed Putty open it by pressing ``` 🪟 + S```  on windows or ```^ + S``` on linux and typing putty.
+When you installed Putty open it by pressing ```🪟 + S```  on windows or ```^ + S``` on linux and typing putty.
 Then Putty Will open and you can type the Required IPv4 address of the writed down IPv4 address of RaspberryPi in your LAN network. exm. ```192.168.0.yyy```.
 Then you will need to sign in with your existing username and password as you created on the RPi with the same IPv4 as that one that you connected via putty with.
 When both username and  password will be correct, ssh/putty will grant acces to your RPi's terminal. It will say something like this: ```raspberry2@raspberrypi:~ $```
